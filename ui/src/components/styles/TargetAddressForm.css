@@ -1,0 +1,8 @@
+.TargetAddressForm {
+  width: 100%;
+  background-color: #000;
+}
+
+.TargetAddressForm__div {
+  display: inline-block;
+}
